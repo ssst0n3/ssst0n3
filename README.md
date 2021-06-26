@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## &#x1f4dd; Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su18&hide=html)](https://su18.org)
+
 ## &#x1f92b; Github Visitors
 
 
