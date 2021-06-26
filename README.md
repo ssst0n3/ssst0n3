@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## &#x1f4dd; Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssst0n3&hide=html)](https://su18.org)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssst0n3&hide=html)]
 
