@@ -21,7 +21,7 @@ Here are some of my repositories i want to introduce to you:
 - [my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
 - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
 - [go_instrumentation](https://github.com/ssst0n3/go_instrumentation): A instrumentation tool for golang
-
+- [awesome_scripts](https://github.com/ssst0n3/awesome_scripts)
 
 
 ## &#x1f4dd; Most Used Languages
