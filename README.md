@@ -37,5 +37,5 @@ Here are some of my repositories i want to introduce to you:
 
 ## &#x1f4dd; Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssst0n3&hide=javascript,html,css,powershell,Groff)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssst0n3&hide=javascript,html,css,powershell,Groff)
 
