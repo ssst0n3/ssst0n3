@@ -35,7 +35,8 @@ Here are some of my repositories i want to introduce to you:
 - [sectools](https://github.com/ssst0n3/sectools)
 - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
 
-<!-- ## &#x1f4dd; Most Used Languages -->
+---
 
+<!-- ## &#x1f4dd; Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssst0n3&hide=javascript,html,css,powershell,Groff)
 
