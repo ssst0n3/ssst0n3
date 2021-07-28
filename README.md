@@ -1,3 +1,5 @@
+markdown: kramdown
+
 <!--
 **ssst0n3/ssst0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://img.shields.io/website?logo=Google%20Chrome&url=https%3A%2F%2Fssst0n3.github.io%2F)](https://ssst0n3.github.io/)
+[![](https://img.shields.io/website?logo=Google%20Chrome&url=https%3A%2F%2Fssst0n3.github.io%2F)](https://ssst0n3.github.io/){:target="_blank"}
 
 ### Hey all. 👋 Container Security newb here.
 Here are some of my repositories i want to introduce to you:
