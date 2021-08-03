@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hey all. 👋 Container Security newb here.
 Here are some of my repositories i want to introduce to you:
 * container
-  - [ctrsploit](https://github.com/ssst0n3/ctrsploit): A penetration toolkit for container environment
+  - [ctrsploit](https://github.com/ctrsploit/ctrsploit): A penetration toolkit for container environment
   - [docker_archive](https://github.com/ssst0n3/docker_archive): Provide many versions of docker and docker's components
   - [registry_v2_client](https://github.com/ssst0n3/registry_v2_client): A cli for registry v2
   - [docker_secret](https://github.com/ssst0n3/docker_secret): An alternative of docker secret
