@@ -31,6 +31,7 @@ Here are some of my repositories i want to introduce to you:
 * ctf
   - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
   - [awd_probe_client](https://github.com/ssst0n3/awd_probe_client)
+  - [waterdropctf](https://github.com/waterdropctf/waterdropctf)
  
 - [my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
 - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
