@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://img.shields.io/badge/-🌐%20My%20Blog-001)](https://ssst0n3.github.io/)
+[![](https://img.shields.io/badge/-🌐%20My%20Blog-blue)](https://ssst0n3.github.io/)
 <!-- [![](https://img.shields.io/website?logo=Google%20Chrome&url=https%3A%2F%2Fssst0n3.github.io%2F)](https://ssst0n3.github.io/) -->
 
 ### Hey all. 👋 Container Security newb here.
