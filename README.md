@@ -31,7 +31,6 @@ Here are some of my repositories i want to introduce to you:
   - [lightweight_db](https://github.com/ssst0n3/lightweight_db)
 * ctf
   - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
-  - [awd_probe_client](https://github.com/ssst0n3/awd_probe_client)
   - [waterdropctf](https://github.com/waterdropctf/waterdropctf)
  
 - [my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
