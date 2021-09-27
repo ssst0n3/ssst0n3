@@ -24,7 +24,7 @@ Here are some of my repositories i want to introduce to you:
   - [registry_v2_client](https://github.com/ssst0n3/registry_v2_client): A cli for registry v2
   - [docker_secret](https://github.com/ssst0n3/docker_secret): An alternative of docker secret
 * golang 
-  - [go_instrumentation](https://github.com/ssst0n3/go_instrumentation): A instrumentation tool for golang
+  - [go_instrumentation](https://github.com/ssst0n3/go_instrumentation): A generic instrumentation tool for golang
   - [awesome_libs](https://github.com/ssst0n3/awesome_libs)
   - [lightweight_api](https://github.com/ssst0n3/lightweight_api)
   - [lightweight_db](https://github.com/ssst0n3/lightweight_db)
