@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <!-- [![](https://img.shields.io/website?logo=Google%20Chrome&url=https%3A%2F%2Fssst0n3.github.io%2F)](https://ssst0n3.github.io/) -->
 
 ### Hey all. 👋 Container Security newb here.
-Here are the vulnerabilities i've found:
+**Here are the vulnerabilities i've found:**
 * [my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
   * CVE-2021-21979: APP_KEY is fixed in docker image bitnami/laravel
   * [CVE-2021-31856: A Sql Injection in Meshery](https://github.com/ssst0n3/CVE-2021-31856)
   * [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)
 
-Here are some of my repositories i want to introduce to you:
+**Here are some of my repositories i want to introduce to you:**
 * container
   - [ctrsploit](https://github.com/ctrsploit/ctrsploit): A penetration toolkit for container environment
   - [docker_archive](https://github.com/ssst0n3/docker_archive): Provide many versions of docker and docker's components
