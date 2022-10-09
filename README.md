@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   * CVE-2021-21979: APP_KEY is fixed in docker image bitnami/laravel
   * [CVE-2021-31856: A Sql Injection in Meshery](https://github.com/ssst0n3/CVE-2021-31856)
   * [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)
+  * some 0days to be disclosure
 
 **Here are some of my repositories i want to introduce to you:**
 * container
@@ -38,10 +39,15 @@ Here are some ideas to get you started:
 * ctf
   - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
   - [waterdropctf](https://github.com/waterdropctf/waterdropctf)
+  - [opdb](https://github.com/ssst0n3/opdb): an opcode level debugger for python
+* security
+  - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
+  - [sectools](https://github.com/ssst0n3/sectools)
 * other
   - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
-  - [sectools](https://github.com/ssst0n3/sectools)
   - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
+
+updated at 2022-10-09
 
 ---
 
