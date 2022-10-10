@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 * ctf
   - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
   - [waterdropctf](https://github.com/waterdropctf/waterdropctf)
-  - [opdb](https://github.com/ssst0n3/opdb): an opcode level debugger for python
+  * reverse
+    - [opdb](https://github.com/ssst0n3/opdb): an opcode level debugger for python
+  * crypto
+    - [yafu_docker](https://github.com/ssst0n3/yafu_docker): unofficial container image for yafu
 * security
   - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
   - [sectools](https://github.com/ssst0n3/sectools)
