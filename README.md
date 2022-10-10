@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
   - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
 
-updated at 2022-10-09
+updated at 2022-10-10
 
 ---
 
