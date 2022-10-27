@@ -43,14 +43,17 @@ Here are some ideas to get you started:
     - [opdb](https://github.com/ssst0n3/opdb): an opcode level debugger for python
   * crypto
     - [yafu_docker](https://github.com/ssst0n3/yafu_docker): unofficial container image for yafu
+  * awd
+    - [portable-git](https://github.com/ssst0n3/portable-git): portable git
 * security
   - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
   - [sectools](https://github.com/ssst0n3/sectools)
+  - [go-shijack](https://github.com/ssst0n3/go-shijack): tcp connection hijacker, go rewrite of shijack from 2001.
 * other
   - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
   - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
 
-updated at 2022-10-10
+updated at 2022-10-27
 
 ---
 
