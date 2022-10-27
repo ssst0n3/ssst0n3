@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     - [yafu_docker](https://github.com/ssst0n3/yafu_docker): unofficial container image for yafu
   * awd
     - [portable-git](https://github.com/ssst0n3/portable-git): portable git
-* security
+* common security tools
   - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
   - [sectools](https://github.com/ssst0n3/sectools)
   - [go-shijack](https://github.com/ssst0n3/go-shijack): tcp connection hijacker, go rewrite of shijack from 2001.
