@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hey all. 👋 Container Security newb here.
 **Here are the vulnerabilities i've found:**
-[my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
+* [my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
 
 | status | discovered | item |
 | --- | --- | --- |
