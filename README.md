@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 ### Hey all. 👋 Container Security newb here.
 **Here are the vulnerabilities i've found:**
 * [my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
-  * CVE-2021-21979: APP_KEY is fixed in docker image bitnami/laravel
-  * [CVE-2021-31856: A Sql Injection in Meshery](https://github.com/ssst0n3/CVE-2021-31856)
-  * [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)
-  * some 0days to be disclosure
+  * [DONE] 2021-02-23 CVE-2021-21979: APP_KEY is fixed in docker image bitnami/laravel
+  * [DONE] 2021-04-20 [CVE-2021-31856: A Sql Injection in Meshery](https://github.com/ssst0n3/CVE-2021-31856)
+  * [DONE] 2021-04-30 [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)
+  * [REPORTED] 2021-08-24 docker ***
+  * [DISCOVERED] 2022-08-04 runc host infomation disclosure
+  * [DISCOVERED] 2022-07-29 runc *** bypass
+  * [DISCOVERED] 2022-06-17 runc *** escape
 
 **Here are some of my repositories i want to introduce to you:**
 * container
@@ -53,7 +56,7 @@ Here are some ideas to get you started:
   - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
   - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
 
-updated at 2022-10-27
+updated at 2022-12-07
 
 ---
 
