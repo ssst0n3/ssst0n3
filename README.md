@@ -42,6 +42,11 @@ Here are some ideas to get you started:
   - [lightweight_api](https://github.com/ssst0n3/lightweight_api)
   - [lightweight_db](https://github.com/ssst0n3/lightweight_db)
   - [codeql-go-vendor](https://github.com/ssst0n3/codeql-go-vendor): A codeql extractor for go vendor mode project
+* my poc/exp
+  - [docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc): docker host file read (using cve-2022-39253) poc
+* security research
+  - [security-research-specification](https://github.com/ssst0n3/security-research-specification)
+  - [source-analysis-system](https://github.com/ssst0n3/source-analysis-system): Next Generation Source Analysis Report
 * ctf
   - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
   - [waterdropctf](https://github.com/waterdropctf/waterdropctf)
@@ -59,7 +64,7 @@ Here are some ideas to get you started:
   - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
   - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
 
-updated at 2022-12-09
+updated at 2023-02-15
 
 ---
 
