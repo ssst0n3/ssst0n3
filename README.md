@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 * security research
   - [security-research-specification](https://github.com/ssst0n3/security-research-specification)
   - [source-analysis-system](https://github.com/ssst0n3/source-analysis-system): Next Generation Source Analysis Report
+  - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
 * ctf
   - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
   - [waterdropctf](https://github.com/waterdropctf/waterdropctf)
@@ -57,7 +58,6 @@ Here are some ideas to get you started:
   * awd
     - [portable-git](https://github.com/ssst0n3/portable-git): portable git
 * common security tools
-  - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
   - [sectools](https://github.com/ssst0n3/sectools)
   - [go-shijack](https://github.com/ssst0n3/go-shijack): tcp connection hijacker, go rewrite of shijack from 2001.
 * other
