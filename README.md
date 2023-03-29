@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | [DONE] | 2021-04-30 | docker | [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)|
 | [REPORTED] | 2021-08-24 | docker | docker *** dos |
 | [DISCOVERED] | 2022-08-04 | runc | runc host infomation disclosure |
-| [DONE] | 2022-07-29 | runc | CVE-2023-28642: AppArmor/SELinux bypass with symlinked /proc |
+| [DONE] | 2022-07-29 | runc | [CVE-2023-28642: AppArmor/SELinux bypass with symlinked /proc](https://github.com/opencontainers/runc/security/advisories/GHSA-g2j6-57v7-gm8c) |
 | [DISCOVERED] | 2022-06-17 | runc | runc *** escape |
 
 **Here are some of my repositories i want to introduce to you:**
