@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 **Here are the vulnerabilities i've found:**
 * [my_vulnerabilities](https://github.com/ssst0n3/my_vulnerabilities): The vulnerabilities i've found
 
-| status | discovered | project | item |
-| --- | --- | --- | --- |
+| status | discovered | project | item | note |
+| --- | --- | --- | --- | --- |
 | [DONE] | 2021-02-23 | bitnami/laravel | CVE-2021-21979: APP_KEY is fixed in docker image bitnami/laravel |
 | [DONE] | 2021-04-20 | meshery | [CVE-2021-31856: A Sql Injection in Meshery](https://github.com/ssst0n3/CVE-2021-31856) |
 | [DONE] | 2021-04-30 | docker | [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)|
