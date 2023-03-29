@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | [DONE] | 2021-04-30 | docker | [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)|
 | [REPORTED] | 2021-08-24 | docker | docker *** dos |
 | [DISCOVERED] | 2022-08-04 | runc | runc host infomation disclosure |
-| [DISCOVERED] | 2022-07-29 | runc | runc *** bypass |
+| [REPORTED] | 2022-07-29 | runc | runc *** bypass |
 | [DISCOVERED] | 2022-06-17 | runc | runc *** escape |
 
 **Here are some of my repositories i want to introduce to you:**
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
   - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
 
-updated at 2023-02-15
+updated at 2023-03-29
 
 ---
 
