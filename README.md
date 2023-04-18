@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 | [DISCOVERED] | 2022-08-04 | runc | runc host infomation disclosure |
 | [DISCOVERED] | 2023-02-14 | docker | docker host arbitrary file write |
 | [DISCOVERED] | 2023-03-02 | docker | docker host arbitrary file delete |
-| [DISCOVERED] | 2023-03-30 | runc | *** escape |
-| [DISCOVERED] | 2023-04-07 | runc | *** escape |
+| [DISCOVERED] | 2023-03-30 | runc | *** escape, any runtime |
+| [DISCOVERED] | 2023-04-07 | runc | *** escape, containerd only |
 
 **Here are some of my repositories i want to introduce to you:**
 * container
