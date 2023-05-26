@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 | [DONE] | 2023-03-10 | apport-cli | [CVE-2023-1326](https://ubuntu.com/security/notices/USN-6018-1) |
 | [DISCOVERED] | 2023-03-30 | runc | *** escape, any runtime |
 | [DISCOVERED] | 2023-04-07 | runc | *** escape, containerd only |
+| [DISCOVERED] | 2023-05-10 | kata | escape from ctr to guest vm |
+
 
 **Here are some of my repositories i want to introduce to you:**
 * container
