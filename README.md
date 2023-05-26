@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | [DONE] | 2021-02-23 | bitnami/laravel | CVE-2021-21979: APP_KEY is fixed in docker image bitnami/laravel |
 | [DONE] | 2021-04-20 | meshery | [CVE-2021-31856: A Sql Injection in Meshery](https://github.com/ssst0n3/CVE-2021-31856) |
 | [DONE] | 2021-04-30 | docker | [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)|
-| [DONE] | 2021-05-26 | kernel/cgroups | CVE-2022-0492 (one of the authors) |
+| [DONE] | 2021-05-26 | kernel/cgroups | CVE-2022-0492 (co-author) |
 | [DISCOVERED] | 2021-07-14 | runc | host infomation disclosure |
 | [REPORTED] | 2021-08-24 | docker | docker *** dos |
 | [DISCOVERED] | 2022-06-17 | runc | runc *** escape |
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | [DISCOVERED] | 2022-08-04 | runc | runc host infomation disclosure |
 | [DISCOVERED] | 2023-02-14 | docker | docker host arbitrary file write |
 | [DISCOVERED] | 2023-03-02 | docker | docker host arbitrary file delete |
-| [DONE] | 2023-03-10 | apport-cli | [CVE-2023-1326](https://ubuntu.com/security/notices/USN-6018-1) |
+| [DONE] | 2023-03-10 | apport-cli | [CVE-2023-1326](https://ubuntu.com/security/notices/USN-6018-1) (co-author) |
 | [DISCOVERED] | 2023-03-30 | runc | *** escape, any runtime |
 | [DISCOVERED] | 2023-04-07 | runc | *** escape, containerd only |
 | [DISCOVERED] | 2023-05-10 | kata | escape from ctr to guest vm |
