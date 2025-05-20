@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 | [DISCOVERED] | 2023-05-10 | kata | escape from ctr to guest vm |
 | [DONE] | 2024-12-17 | nvidia-container-toolkit| [CVE-2025-23359](https://nvidia.custhelp.com/app/answers/detail/a_id/5616) |
 | [REPORTED] | 2025-03-13 | nvidia-container-toolkit | CVE-2025-2****: gpu container escape |
+| [REPORTED] | 2025-04-29 | runc | container escape |
 
 
 
