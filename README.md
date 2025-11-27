@@ -11,7 +11,7 @@
 | [FIXED] | 2021-04-20 | meshery | [CVE-2021-31856: A Sql Injection in Meshery](https://github.com/ssst0n3/CVE-2021-31856) |
 | [FIXED] | 2021-04-30 | docker | [CVE-2021-41089: docker cp allows unexpected chmod of host files](https://github.com/moby/moby/security/advisories/GHSA-v994-f8vw-g7j4)|
 | [FIXED] | 2021-05-26 | kernel/cgroups | CVE-2022-0492 (co-author) |
-| [FIXED] | 2021-07-14 | runc | host infomation disclosure | same as CVE-2025-31133 |
+| [FIXED] | 2021-07-14 | runc | host infomation disclosure | It was later proven to be the same issue as CVE-2025-31133, but at the time, no exploitation approach had been considered. |
 | [REJECTED] | 2021-08-24 | docker | docker dos | reported but no response |
 | [REJECTED] | 2022-06-17 | runc | runc capability escape | maintainer did not think it's a vuln |
 | [FIXED] | 2022-07-29 | runc | [CVE-2023-28642: AppArmor/SELinux bypass with symlinked /proc](https://github.com/opencontainers/runc/security/advisories/GHSA-g2j6-57v7-gm8c) |
