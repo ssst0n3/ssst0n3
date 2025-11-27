@@ -18,7 +18,7 @@
 | [REJECTED] | 2022-08-04 | runc | runc host infomation disclosure | maintainer did not think it's a vuln |
 | [FIXED] | 2023-03-10 | apport-cli | [CVE-2023-1326](https://ubuntu.com/security/notices/USN-6018-1) (co-author) |
 | [FIXED] | 2023-03-30 | runc | CVE-2025-31133: container escape |
-| [FIXED] | 2023-04-07 | runc | escape, containerd only | got fixed unintentionally in runc v1.1.5 |
+| [FIXED] | 2023-04-07 | runc | escape, containerd only | actually a escape tech, got fixed unintentionally in runc v1.1.5 |
 | [FIXED] | 2024-12-17 | nvidia-container-toolkit| [CVE-2025-23359](https://nvidia.custhelp.com/app/answers/detail/a_id/5616) |
 | [FIXED] | 2025-03-13 | nvidia-container-toolkit | [CVE-2025-23267](https://nvidia.custhelp.com/app/answers/detail/a_id/5659) |
 | [FIXED] | 2025-04-29 | runc | CVE-2025-52565, container escape (co-author) |
