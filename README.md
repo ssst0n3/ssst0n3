@@ -3,7 +3,7 @@
 <!-- [![](https://img.shields.io/website?logo=Google%20Chrome&url=https%3A%2F%2Fssst0n3.github.io%2F)](https://ssst0n3.github.io/) -->
 
 ### Hey all. 👋 Container Security newb here.
-**Here are the vulnerabilities i've found:**
+**Here are the vulnerabilities I found, reported in line with responsible disclosure.**
 
 | status | discovered | project | item | note |
 | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | [FIXED] | 2024-12-17 | nvidia-container-toolkit| [CVE-2025-23359](https://nvidia.custhelp.com/app/answers/detail/a_id/5616) |
 | [FIXED] | 2025-03-13 | nvidia-container-toolkit | [CVE-2025-23267](https://nvidia.custhelp.com/app/answers/detail/a_id/5659) |
 | [FIXED] | 2025-04-29 | runc | CVE-2025-52565, container escape (co-author) |
+| [FIXED] | 2026-02-02 | containerd | CVE-2026-46680: runAsNonRoot bypass |
 
 **Here are some of my repositories i want to introduce to you:**
 * container
