@@ -23,6 +23,7 @@
 | [FIXED] | 2025-03-13 | nvidia-container-toolkit | [CVE-2025-23267](https://nvidia.custhelp.com/app/answers/detail/a_id/5659) |
 | [FIXED] | 2025-04-29 | runc | CVE-2025-52565, container escape (co-author) |
 | [FIXED] | 2026-02-02 | containerd | CVE-2026-46680: runAsNonRoot bypass |
+| [FIXED] | 2026-07-14 | buildkit | [CVE-2026-15793](https://github.com/moby/buildkit/security/advisories/GHSA-hw3h-2gp9-cxpv) (co-author) |
 
 **Here are some of my repositories i want to introduce to you:**
 * container
