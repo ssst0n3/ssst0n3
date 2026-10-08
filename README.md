@@ -24,24 +24,16 @@
 | [FIXED] | 2025-04-29 | runc | CVE-2025-52565, container escape (co-author) |
 | [FIXED] | 2026-02-02 | containerd | CVE-2026-46680: runAsNonRoot bypass |
 | [FIXED] | 2026-07-14 | buildkit | [CVE-2026-15793](https://github.com/moby/buildkit/security/advisories/GHSA-hw3h-2gp9-cxpv) (co-author) |
+| [FIXED] | 2026-08-05 | harbor | [GHSA-2phj-cp9f-qq6w](https://github.com/goharbor/harbor/security/advisories/GHSA-2phj-cp9f-qq6w) |
 
 **Here are some of my repositories i want to introduce to you:**
 * container
   - [ctrsploit](https://github.com/ctrsploit/ctrsploit): A penetration toolkit for container environment
-  - [docker_archive](https://github.com/ssst0n3/docker_archive): Provide many versions of docker and docker's components
-  - [registry_v2_client](https://github.com/ssst0n3/registry_v2_client): A cli for registry v2
-  - [docker_secret](https://github.com/ssst0n3/docker_secret): An alternative of docker secret
-* golang 
-  - [go_instrumentation](https://github.com/ssst0n3/go_instrumentation): A generic instrumentation tool for golang
-  - [awesome_libs](https://github.com/ssst0n3/awesome_libs)
-  - [lightweight_api](https://github.com/ssst0n3/lightweight_api)
-  - [lightweight_db](https://github.com/ssst0n3/lightweight_db)
-  - [codeql-go-vendor](https://github.com/ssst0n3/codeql-go-vendor): A codeql extractor for go vendor mode project
+  - [dqd](https://github.com/ctrsploit/dqd): reproducible container runtime environments
 * my poc/exp
   - [docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc): docker host file read (using cve-2022-39253) poc
 * security research
   - [security-research-specification](https://github.com/ssst0n3/security-research-specification)
-  - [source-analysis-system](https://github.com/ssst0n3/source-analysis-system): Next Generation Source Analysis Report
   - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
 * ctf
   - [my_ctf_challenges](https://github.com/ssst0n3/my_ctf_challenges): The ctf challenges i've designed
@@ -53,16 +45,6 @@
   * awd
     - [portable-git](https://github.com/ssst0n3/portable-git): portable git
 * common security tools
-  - [sectools](https://github.com/ssst0n3/sectools)
   - [go-shijack](https://github.com/ssst0n3/go-shijack): tcp connection hijacker, go rewrite of shijack from 2001.
-* other
-  - [awesome_scripts](https://github.com/ssst0n3/awesome_scripts): A collection of awesome scripts
-  - [sshtunnel](https://github.com/ssst0n3/sshtunnel): A nice useful ssh tunnel
 
-updated at 2023-04-23
-
----
-
-<!-- ## &#x1f4dd; Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssst0n3&hide=javascript,html,css,powershell,Groff)
-
+updated at 2026-10-08
