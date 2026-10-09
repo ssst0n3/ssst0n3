@@ -30,8 +30,6 @@
 * container
   - [ctrsploit](https://github.com/ctrsploit/ctrsploit): A penetration toolkit for container environment
   - [dqd](https://github.com/ctrsploit/dqd): reproducible container runtime environments
-* my poc/exp
-  - [docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc): docker host file read (using cve-2022-39253) poc
 * security research
   - [security-research-specification](https://github.com/ssst0n3/security-research-specification)
   - [GHSA-NOTIFY](https://github.com/ssst0n3/GHSA-NOTIFY): open source software security advisories based on GHSA
