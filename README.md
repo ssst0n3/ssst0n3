@@ -3,7 +3,7 @@
 <!-- [![](https://img.shields.io/website?logo=Google%20Chrome&url=https%3A%2F%2Fssst0n3.github.io%2F)](https://ssst0n3.github.io/) -->
 
 ### Hey all. 👋 Container Security newb here.
-**Here are the vulnerabilities I found, reported in line with responsible disclosure.**
+**Here are the container related vulnerabilities I found, reported in line with responsible disclosure.**
 
 | status | discovered | project | item | note |
 | --- | --- | --- | --- | --- |
