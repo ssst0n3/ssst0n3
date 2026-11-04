@@ -30,7 +30,7 @@ Vulnerabilities in other types of projects
 
 | status | discovered | project | item | note |
 | --- | --- | --- | --- | --- |
-| [FIXED] | 2016-09-29 | pulse | [GHSA-62w4-vj5c-9cgq](https://github.com/rcourtman/Pulse/security/advisories/GHSA-62w4-vj5c-9cgq) |
+| [FIXED] | 2026-10-14 | pulse | [GHSA-62w4-vj5c-9cgq](https://github.com/rcourtman/Pulse/security/advisories/GHSA-62w4-vj5c-9cgq) |
 
 
 **Here are some of my repositories i want to introduce to you:**
