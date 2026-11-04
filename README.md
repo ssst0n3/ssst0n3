@@ -26,7 +26,7 @@
 | [FIXED] | 2026-07-14 | buildkit | [CVE-2026-15793](https://github.com/moby/buildkit/security/advisories/GHSA-hw3h-2gp9-cxpv) (co-author) |
 | [FIXED] | 2026-08-05 | harbor | [GHSA-2phj-cp9f-qq6w](https://github.com/goharbor/harbor/security/advisories/GHSA-2phj-cp9f-qq6w) |
 
-other vulns
+Vulnerabilities in other types of projects
 
 | status | discovered | project | item | note |
 | --- | --- | --- | --- | --- |
