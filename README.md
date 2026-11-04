@@ -26,6 +26,13 @@
 | [FIXED] | 2026-07-14 | buildkit | [CVE-2026-15793](https://github.com/moby/buildkit/security/advisories/GHSA-hw3h-2gp9-cxpv) (co-author) |
 | [FIXED] | 2026-08-05 | harbor | [GHSA-2phj-cp9f-qq6w](https://github.com/goharbor/harbor/security/advisories/GHSA-2phj-cp9f-qq6w) |
 
+other vulns
+
+| status | discovered | project | item | note |
+| --- | --- | --- | --- | --- |
+| [FIXED] | 2016-09-29 | pulse | [GHSA-62w4-vj5c-9cgq](https://github.com/rcourtman/Pulse/security/advisories/GHSA-62w4-vj5c-9cgq) |
+
+
 **Here are some of my repositories i want to introduce to you:**
 * container
   - [ctrsploit](https://github.com/ctrsploit/ctrsploit): A penetration toolkit for container environment
