@@ -25,6 +25,7 @@
 | [FIXED] | 2026-02-02 | containerd | CVE-2026-46680: runAsNonRoot bypass |
 | [FIXED] | 2026-07-14 | buildkit | [CVE-2026-15793](https://github.com/moby/buildkit/security/advisories/GHSA-hw3h-2gp9-cxpv) (co-author) |
 | [FIXED] | 2026-08-05 | harbor | [GHSA-2phj-cp9f-qq6w](https://github.com/goharbor/harbor/security/advisories/GHSA-2phj-cp9f-qq6w) |
+| [FIXED] | 2026-09-10 | containerd | [CVE-2026-95839](https://github.com/containerd/containerd/security/advisories/GHSA-vwhp-8p66-mq4f) |
 
 Vulnerabilities in other types of projects
 
